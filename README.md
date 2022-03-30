@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shaheerrkk
 - 👀 I’m interested in Graphics Designing and developing video games 
 - 🌱 I’m currently learning Artificial intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can contact me on my email : khanshaheer8242@gmail.com
 
 <!---
